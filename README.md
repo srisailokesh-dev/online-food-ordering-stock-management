@@ -2,9 +2,9 @@
 
 A full-stack academic web application for online food ordering, restaurant/menu management, customer accounts, and order administration.
 
-> **Academic Project:** B.E. Computer Science & Engineering  
-> **Current academic direction:** Master's in Data Science, TU Wien  
-> **Developer:** Sri Sai Lokesh
+> Bachelor's in Computer Science & Engineering
+> Currently pursuing Master's in Data Science at TU Wien
+> Developer: Sri Sai Lokesh 
 
 ## 📌 Project Overview
 
@@ -182,7 +182,7 @@ It also provides a foundation for future work combining software engineering wit
 
 **Sri Sai Lokesh**  
 B.E. Computer Science & Engineering  
-Master's Student in Data Science — TU Wien
+Currently Master's Student in Data Science — TU Wien
 
 ---
 
