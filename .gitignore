@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment
+.env
+.env.*
+*.log
+
+# Local database/runtime files
+*.sqlite
+*.sqlite3
+
+# PHP runtime/session files
+/vendor/
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
